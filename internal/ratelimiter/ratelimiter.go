@@ -1,4 +1,3 @@
-// ratelimiter.go
 package ratelimiter
 
 import (
